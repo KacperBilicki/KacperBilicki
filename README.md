@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @KacperBilicki
-- 👀 I’m interested in: Data Science/Analytics
+- 👀 I’m interested in: Data Science
 - 📫 How to reach me: bilicki.kacper1@gmail.com
